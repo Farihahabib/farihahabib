@@ -53,10 +53,11 @@ I love building web applications and exploring new technologies in frontend and 
 ## 📊 GitHub Stats
 
 <!-- GitHub contribution stats -->
-![Fariha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farihahabib&show_icons=true&count_private=true&theme=radical&hide_title=false)
+![Fariha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farihahabib&show_icons=true&count_private=true&theme=radical)
 
 <!-- Top programming languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farihahabib&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farihahabib&layout=compact&theme=radical)
+
 
 
 
