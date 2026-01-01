@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1350&q=80)
+![Banner]  (https://ibb.co.com/JR3HNZZ4)
 
 # Hi, I'm Fariha Habib 👋
 ### Full Stack Web Developer | MERN Stack | Mathematics Student
