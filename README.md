@@ -15,8 +15,6 @@ I love building web applications and exploring new technologies in frontend and 
 
 ## Current Activities
 - 🌱 Exploring **Next.js** and advanced React features  
-- 💻 Working on a **tourism website project**  
-- 📚 Learning **data structures and algorithms** for better problem solving  
 - 🚀 Improving my **full-stack web development skills**
 
 ---
@@ -43,10 +41,10 @@ I love building web applications and exploring new technologies in frontend and 
 ---
 
 ## Contact Me
-- 📧 Email: fariha@example.com  
-- 📞 Phone: +8801XXXXXXXXX  
-- [LinkedIn](https://www.linkedin.com/in/fariha-habib)  
-- [GitHub](https://github.com/farihahabib)  
+- 📧 Email: farihahabib2202@gmail.com 
+- 📞 Phone: +8801737463922
+- [LinkedIn](https://www.linkedin.com/in/fariha-habib-8040123a4/)  
+- [GitHub](https://github.com/Farihahabib)  
 - [Portfolio](https://yourportfolio.com)  
 
 ---
