@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner] (https://raw.githubusercontent.com/Farihahabib/Images/refs/heads/main/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png)
+![Banner] https://github.com/Farihahabib/Images/blob/main/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png?raw=true
 
 # Hi, I'm Fariha Habib 👋
 ### Full Stack Web Developer | MERN Stack | Mathematics Student
