@@ -49,8 +49,13 @@ I love building web applications and exploring new technologies in frontend and 
 
 ---
 
-## GitHub Stats
-![Fariha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farihahabib&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+<!-- GitHub contribution stats -->
+![Fariha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farihahabib&show_icons=true&count_private=true&theme=radical&hide_title=false)
+
+<!-- Top programming languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farihahabib&layout=compact&theme=radical)
+
 
 
