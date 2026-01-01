@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner]  (https://ibb.co.com/JR3HNZZ4)
+![Banner] (https://raw.githubusercontent.com/Farihahabib/Images/refs/heads/main/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png)
 
 # Hi, I'm Fariha Habib 👋
 ### Full Stack Web Developer | MERN Stack | Mathematics Student
