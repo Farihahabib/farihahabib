@@ -45,7 +45,7 @@ I love building web applications and exploring new technologies in frontend and 
 - 📞 Phone: +8801737463922
 - [LinkedIn](https://www.linkedin.com/in/fariha-habib-8040123a4/)  
 - [GitHub](https://github.com/Farihahabib)  
-- [Portfolio](https://yourportfolio.com)  
+
 
 ---
 
